@@ -1,2 +1,2 @@
 # Trabalho 1
-Construção de um semáforo para sincronizar a execução de duas threads
+Construção do problema do produtor-consumidor, para testar o uso de semáforos.
